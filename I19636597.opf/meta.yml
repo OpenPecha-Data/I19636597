@@ -1,0 +1,43 @@
+id: I19636597
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:52:01.390348'
+last_modified: '2022-05-30T18:52:01.390353'
+parser: null
+source_metadata:
+  title: Dolpopa Sherab Gyaltsen
+  language: bo
+  description: Texts by and about Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal
+    mtshan, 1292–1361), who was one of the most influential masters in Tibetan history.
+    He trained in the Sakya tradition and then moved to Jonang Monastery, where he
+    established a formidable yet controversial scholarly tradition.
+  volume:
+    fA861:
+      title: 'An Envoy for Swiftly Invoking the Blessings of Definitive Meaning: Calling
+        the Great Omniscient Jonangpa from Afar'
+      base_file: fA861.txt
+      order: 1
+      parent: Calling the Guru from Afar
+    f73D3:
+      title: Guru Sādhana of the Omniscient Dolpopa
+      base_file: f73D3.txt
+      order: 2
+      parent: Guru Yoga
+    f6290:
+      title: Aspiration Prayer of the Ultimate Definitive Meaning
+      base_file: f6290.txt
+      order: 3
+      parent: Prayers
+    f5352:
+      title: In Praise of the Eight Siddhas
+      base_file: f5352.txt
+      order: 4
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
